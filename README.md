@@ -7,7 +7,7 @@ Data for the salinity, temprature, height anomoly and the meridional and zonal c
 
 Covered in datathon 1 and datathon 2. Datathon 2 covers the data with an added dimention of depth.
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://github.com/gandharvsuri/Data-Viz/blob/master/Images/SST.gif" width="40" height="40" />
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
