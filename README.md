@@ -7,13 +7,16 @@ Data for the salinity, temprature, height anomoly and the meridional and zonal c
 
 Covered in datathon 1 and datathon 2. Datathon 2 covers the data with an added dimention of depth.
 
-<img src="https://github.com/gandharvsuri/Data-Viz/blob/master/Images/SST.gif" width="40" height="40" />
+<img src="https://github.com/gandharvsuri/Data-Viz/blob/master/Images/SST.gif" width="400" height="380" />
+<img src="https://github.com/gandharvsuri/Data-Viz/blob/master/Images/Currents.gif" width="400" height="380" />
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://github.com/gandharvsuri/Data-Viz/blob/master/Images/TempSlice29D04.png" width="400" height="380" />
+<img src="https://github.com/gandharvsuri/Data-Viz/blob/master/Images/TempIso29D04.png" width="400" height="380" />
 
 ## Dataset 2
 Data provides the time series data for the confirmed, recovered, and deaths due to covid-19 for various countires. The objective was to comeup with a network and visualise the network. 
 
+<img src="https://github.com/gandharvsuri/Data-Viz/blob/master/Images/ConfirmedGraph.png" width="400" height="380" />
 
 
 ## Dataset 3
